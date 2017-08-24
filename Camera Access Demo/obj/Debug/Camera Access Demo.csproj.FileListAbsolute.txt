@@ -1,0 +1,19 @@
+F:\pkdev\Vs2017Projects\Camera Access Demo\Camera Access Demo\obj\Debug\Camera Access Demo.csprojResolveAssemblyReference.cache
+F:\pkdev\Vs2017Projects\Camera Access Demo\Camera Access Demo\obj\Debug\Camera_Access_Demo.Form1.resources
+F:\pkdev\Vs2017Projects\Camera Access Demo\Camera Access Demo\obj\Debug\Camera_Access_Demo.Properties.Resources.resources
+F:\pkdev\Vs2017Projects\Camera Access Demo\Camera Access Demo\obj\Debug\Camera Access Demo.csproj.GenerateResource.Cache
+F:\pkdev\Vs2017Projects\Camera Access Demo\Camera Access Demo\bin\Debug\Camera Access Demo.exe.config
+F:\pkdev\Vs2017Projects\Camera Access Demo\Camera Access Demo\bin\Debug\Camera Access Demo.exe
+F:\pkdev\Vs2017Projects\Camera Access Demo\Camera Access Demo\bin\Debug\Camera Access Demo.pdb
+F:\pkdev\Vs2017Projects\Camera Access Demo\Camera Access Demo\bin\Debug\Emgu.CV.UI.dll
+F:\pkdev\Vs2017Projects\Camera Access Demo\Camera Access Demo\bin\Debug\Emgu.CV.World.dll
+F:\pkdev\Vs2017Projects\Camera Access Demo\Camera Access Demo\bin\Debug\ZedGraph.dll
+F:\pkdev\Vs2017Projects\Camera Access Demo\Camera Access Demo\bin\Debug\Emgu.CV.UI.xml
+F:\pkdev\Vs2017Projects\Camera Access Demo\Camera Access Demo\bin\Debug\Emgu.CV.World.xml
+F:\pkdev\Vs2017Projects\Camera Access Demo\Camera Access Demo\obj\Debug\Camera Access Demo.exe
+F:\pkdev\Vs2017Projects\Camera Access Demo\Camera Access Demo\obj\Debug\Camera Access Demo.pdb
+F:\pkdev\Vs2017Projects\Camera Access Demo\Camera Access Demo\bin\Debug\concrt140.dll
+F:\pkdev\Vs2017Projects\Camera Access Demo\Camera Access Demo\bin\Debug\cvextern.dll
+F:\pkdev\Vs2017Projects\Camera Access Demo\Camera Access Demo\bin\Debug\msvcp140.dll
+F:\pkdev\Vs2017Projects\Camera Access Demo\Camera Access Demo\bin\Debug\opencv_ffmpeg320.dll
+F:\pkdev\Vs2017Projects\Camera Access Demo\Camera Access Demo\bin\Debug\vcruntime140.dll
